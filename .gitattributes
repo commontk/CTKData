@@ -1,0 +1,13 @@
+.git*            export-ignore
+
+[attr]binary -diff -crlf
+
+*.bmp           binary
+*.jpeg          binary
+*.jpg           binary
+*.pgm           binary
+*.png           binary
+*.ppm           binary
+*.raw           binary
+*.tif           binary
+
